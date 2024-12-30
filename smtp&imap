@@ -2,5 +2,5 @@ payload:
   # > smtp/imap
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,mail.yahoo.com
-  - DOMAIN-SUFFIX,iamp.aol.com
+  - DOMAIN-SUFFIX,imap.aol.com
   - DOMAIN-SUFFIX,smtp.aol.com
