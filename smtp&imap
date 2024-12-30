@@ -1,0 +1,4 @@
+payload:
+  # > smtp/imap
+  - 'smtp.*.com'
+  - 'imap.*.com'
